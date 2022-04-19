@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views/pages/address'
+let g:netrw_dirhist_3='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views/pages'
+let g:netrw_dirhist_2='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views'
+let g:netrw_dirhist_1='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views/components'
+let g:netrw_dirhist_0='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views/components/address'
+let g:netrw_dirhist_9='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views/components'
+let g:netrw_dirhist_8='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js/views'
+let g:netrw_dirhist_7='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets/js'
+let g:netrw_dirhist_6='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x/assets'
+let g:netrw_dirhist_5='/Users/artem.oberland/Projects/shopping-dev/vagrant/checkout-x'
