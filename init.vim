@@ -35,6 +35,13 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 colorscheme gruvbox
 set background=dark
+let g:gruvbox_material_background = 'hard'
+let g:gruvbox_material_transparent_background = 1
+let g:airline_theme = 'base16_gruvbox_dark_hard'
+autocmd VimEnter * hi Normal ctermbg=none
+
+" transparent bg
+" autocmd vimenter * hi Normal guibg=NONE ctermbg=NONE
 
 let g:ctrlp_user_command=['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
 let mapleader=" "

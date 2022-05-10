@@ -5,6 +5,7 @@ Plug 'scrooloose/nerdtree' |
 Plug 'jremmen/vim-ripgrep'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'vim-utils/vim-man'
 Plug 'leafgarland/typescript-vim'
 Plug 'mbbill/undotree'
